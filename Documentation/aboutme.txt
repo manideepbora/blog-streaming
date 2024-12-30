@@ -1,0 +1,6 @@
+
+
+I’m Mandeep Bora, a software architect passionate about designing scalable, low latency, and high throughput real-time distributed and innovative systems. I have over 30 years of experience in the tech industry, primarily in high-frequency financial trading and cloud-based applications.
+As a firm believer in the power of collaboration and the importance of working on core business values with user-centered design, my approach to architecture integrates the latest in technology with robust design principles and ultimately provides the most reliable, cost-effective solution to the customer. I specialize in real-time data streaming and cloud-native design using different architectural patterns. I enjoy leading teams to deliver high-impact software solutions for complex business issues.
+When I’m not architecting the next big thing, I’m exploring new tech trends, contributing to open-source projects, or simply enjoying mentoring aspiring software developers.
+I’m always looking for new challenges and opportunities to drive innovation, solve complex problems, and help organizations build systems that scale with their needs.
